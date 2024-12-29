@@ -1,5 +1,6 @@
 # Standalone Windows Executable Version of Python Binary Optimization Compiler
 
+[![DOI](https://zenodo.org/badge/909793741.svg)](https://doi.org/10.5281/zenodo.14571783)
 [![License](https://img.shields.io/badge/license-Custom-blue.svg)](LICENSE.md)
 [![Python Version](https://img.shields.io/badge/python-3.11.9-blue)](https://www.python.org/downloads/release/python-3119/)
 [![Windows Support](https://img.shields.io/badge/windows-10%2B-brightgreen.svg)](#system-requirements)
