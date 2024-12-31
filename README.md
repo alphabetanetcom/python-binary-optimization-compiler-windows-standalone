@@ -13,7 +13,7 @@
 [![Optimize Python Code](https://img.shields.io/badge/optimize-python--code-green.svg)](#key-features)
 
 *Version: 1.3 GUI  
-© 2024 αβ.net ([alphabetanet.com](https://alphabetanet.com)) - Alpha Beta Network. All Rights Reserved.*
+© 2024 αβ.net (alphabetanet.com) - Alpha Beta Network. All Rights Reserved.*
 
 ---
 
