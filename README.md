@@ -179,7 +179,7 @@ An example of practical use has been created using this Windows application:
 
 - **Stay Updated**: Keep the application updated to benefit from the latest optimizations and security features.
 
-- **Combine with Other Protection Tools**: For maximum code security, consider combining this application with other Alpha Beta Network solutions like the [Python Obfuscator Online](https://obfuscator.alphabetanet.com/) and the [Secure Python Code Manager Script](https://github.com/alphabetanetcom/secure-python-code-manager).
+- **Combine with Other Protection Tools**: For maximum code security, consider combining this application with other Alpha Beta Network solutions like the [Python Obfuscator Online](http://obfuscator.alphabetanet.com/) and the [Secure Python Code Manager Script](https://github.com/alphabetanetcom/secure-python-code-manager).
 
 - **Handle External Dependencies**: If your script uses external modules or packages, ensure they are compatible with Python 3.11.9 and include them appropriately.
 
@@ -189,7 +189,7 @@ An example of practical use has been created using this Windows application:
 
 Enhance your application's security and functionality by integrating with other tools from the **Alpha Beta Network**:
 
-- **[Python Obfuscator Online](https://obfuscator.alphabetanet.com/)**:
+- **[Python Obfuscator Online](http://obfuscator.alphabetanet.com/)**:
 
   - Use for advanced cloud-based code obfuscation and protection before compiling.
 
